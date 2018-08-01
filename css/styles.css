@@ -1,0 +1,23 @@
+.intro{
+  text-align: center;
+  font-size: 15px;
+  color: red;
+}
+
+.intro2{
+  font-style: italic;
+  font-weight: 100px;
+}
+
+.intro3{
+  color: blue;
+  font-style: sans-serif;
+}
+
+h2 {
+  text-align: center;
+}
+
+ul.no {
+list-style-type: none;
+}
